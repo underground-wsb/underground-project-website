@@ -11,7 +11,7 @@ const OurMission = () => {
 
         }}> 
           <Button variant="contained"> 
-            Downloadx
+            Downloadxx
           </Button>
         </Grid>
     )
